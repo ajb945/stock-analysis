@@ -6,7 +6,7 @@ In this project, a number of stocks have been analyzed through VBA to find the t
 
 ## Results
 
-Looking at the results from the analysis,the best performing stocks were ENPH and RUN, which returned very positive returns in both 2017 and 2018. All of the stocks returned positive returns in 2017 except for TERP, but then all of the stocks except for ENPH and RUN returned negative returns in 2018.
+Looking at the results from the analysis,the best performing stocks were ENPH and RUN, which returned positive returns in both 2017 and 2018. All of the stocks returned positive returns in 2017 except for TERP, but then all of the stocks except for ENPH and RUN returned negative returns in 2018.
 
 ![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
