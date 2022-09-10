@@ -44,4 +44,4 @@ And below are screenshots of the execution time for the refactored script:
 
 ## Summary
 
-The advantage of refactoring the VBA code is that the time required to run the code and bring up the results in Excel were decreased by around a second (from 1.25 seconds to .12 seconds for the 2017 results and 1.22 seconds to .09 seconds for the 2018 results). Although both times are fast and the differeences would be unnoticable with the current dataset, the time savings should be significant given larger datasets and ticker information, allowing better long-term use of the code.
+The advantage of refactoring the VBA code is that the time required to run the code and bring up the results in Excel were decreased by around a second (from 1.25 seconds to .12 seconds for the 2017 results and 1.22 seconds to .09 seconds for the 2018 results). Although all of these times are fast and the differeences would be unnoticable with the current dataset, the time savings should be significant given larger datasets and ticker information, allowing better long-term use of the code.
