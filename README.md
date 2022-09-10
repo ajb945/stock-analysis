@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, a number of stocks have been analyzed to find the total daily volume and yearly return for selected stocks based on data from 2017 and 2018. The code was also refactored to improve execution time.
+In this project, a number of stocks have been analyzed through VBA to find the total daily volume and yearly return for selected stocks based on data from 2017 and 2018. The code was also refactored to improve execution time.
 
 ## Results
 
