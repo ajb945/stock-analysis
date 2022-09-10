@@ -11,7 +11,7 @@ Looking at the results from the analysis,the best performing stocks were ENPH an
 ![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
-The code was also refactored from the orginal code to increase TickerVolumes by using the TickerIndex as the index.
+The code was also refactored from the orginal code, increasing the TickerVolumes variable by using the TickerIndex variable as the index.
 
 Original code:
 
