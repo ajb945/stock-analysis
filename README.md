@@ -1,4 +1,4 @@
-# Analysis of Stock Data
+# Analysis of Stock Data Using VBA
 
 ## Overview
 
